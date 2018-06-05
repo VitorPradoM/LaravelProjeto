@@ -1,0 +1,94 @@
+@media (min-width: 768px) {
+  #page-wrapper {
+    margin: 0 !important;
+    border-left:0 !important;
+  }
+}
+body {
+    background-color: white;
+    #nav 
+}
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:white;
+    list-style:none;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+p#consulta {
+	font-size: large; color: black;
+	font-family: Arial, sans-serif;
+	margin-top: 7px;
+}
+
+input#busca {
+	border-radius: 0px;
+	padding: 16px;
+}
+
+
+img.um
+{
+border : 100px transparent;
+}
+img.dois
+{
+border : 30px solid #000 ;
+}
+
+button#btn {
+	border-radius: 10px;
+	font-weight: bold;
+	padding: 6px;
+   background-color:#00008B;
+}
+}
+
+input#btn {
+	border-radius: 0px;
+	font-weight: bold;
+	padding: 8px;
+}
+#menu ul li { display: inline; }
+
+th {
+	font-size: large; color: #2E58A5;
+	font-family: Arial, sans-serif;
+}
+
+td {
+	font-size: medium; color: #777;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+}
+
+div#table {
+	border-radius: 0px;
+}
+
+label {
+	font-size: 15px; color: #777;
+	font-family: Arial, sans-serif;
+	font-weight: bolder;
+}
+
+b {
+	font-size: x-large; color: #2E58A5;
+}
+
+.input {
+	border-radius: 0px;
+	padding: 16px;
+}
+
+select.slc {
+	border-radius: 0px;
+}

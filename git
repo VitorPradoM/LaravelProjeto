@@ -1,0 +1,3 @@
+[remote "origin"]
+    url = https://github.com/VitorPradoM/Oficina5.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
